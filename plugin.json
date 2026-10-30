@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sitewarming",
+  "version": "1.0.0",
+  "description": "Manage and warm your SiteWarming domain portfolio: reports, warming status, guided launches, tracked domains and DNS setup.",
+  "author": {
+    "name": "SiteWarming",
+    "email": "support@sitewarming.com",
+    "url": "https://www.sitewarming.com"
+  },
+  "homepage": "https://www.sitewarming.com/mcp",
+  "repository": "https://github.com/SiteWarming/sitewarming-grok-bot-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "grok-bot",
+    "cursor",
+    "domains",
+    "domain-portfolio",
+    "dns"
+  ]
+}
